@@ -1,8 +1,0 @@
-{
-    "db_type": "mysql",
-    "host": "localhost",
-    "user": "root",
-    "password": "Apple@1234",
-    "database": "projectmaker",
-    "port": 3306
-}
