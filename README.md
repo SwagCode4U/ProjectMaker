@@ -119,6 +119,39 @@ If you find this useful:
 - 🍴 Fork and build something awesome
 - 📣 Share with your dev friends
 
+## 📸 Screenshots & Preview
+
+<div align="center">
+
+### 🏠 Home Page  
+<img src="docs/HomePage.png" width="750" alt="Home Page">
+
+---
+
+### ⚙️ Project Info Sequence  
+<img src="docs/ProjectInfo-1.png" width="700" alt="Project Info 1">
+<img src="docs/ProjectInfo-2.png" width="700" alt="Project Info 2">
+<img src="docs/ProjectInfo-3.png" width="700" alt="Project Info 3">
+<img src="docs/ProjectInfo-4.png" width="700" alt="Project Info 4">
+<img src="docs/ProjectInfo-5.png" width="700" alt="Project Info 5">
+<img src="docs/ProjectInfo-6.png" width="700" alt="Project Info 6">
+<img src="docs/ProjectInfo-7.png" width="700" alt="Project Info 7">
+<img src="docs/ProjectInfo-8.png" width="700" alt="Project Info 8">
+<img src="docs/ProjectInfo-9.png" width="700" alt="Project Info 9">
+<img src="docs/ProjectInfo-10.png" width="700" alt="Project Info 10">
+<img src="docs/ProjectInfo-11.png" width="700" alt="Project Info 11">
+<img src="docs/ProjectInfo-12.png" width="700" alt="Project Info 12">
+
+---
+
+### 📄 PDF Output  
+<img src="docs/PDF_1.png" width="750" alt="PDF Summary 1">
+<img src="docs/PDF_2.png" width="750" alt="PDF Summary 2">
+<img src="docs/PDF_3.png" width="750" alt="PDF Summary 3">
+
+</div>
+
+
 <div align="center">
 
 Made with ❤️ by SwagCode4U
