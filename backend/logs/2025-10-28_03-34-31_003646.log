@@ -1,0 +1,2 @@
+2025-10-28 03:34:32.650 | INFO     | app.main:log_requests:105 - Request: POST http://localhost:8000/api/projects/generate-pdf
+2025-10-28 03:34:32.662 | INFO     | app.main:log_requests:111 - Response: 200 POST http://localhost:8000/api/projects/generate-pdf

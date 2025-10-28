@@ -1,0 +1,16 @@
+2025-10-28 03:31:55.064 | INFO     | app.main:log_requests:105 - Request: GET http://localhost:8000/api/projects/frameworks
+2025-10-28 03:31:55.077 | INFO     | app.main:log_requests:111 - Response: 200 GET http://localhost:8000/api/projects/frameworks
+2025-10-28 03:31:55.155 | INFO     | app.main:log_requests:105 - Request: GET http://localhost:8000/api/projects/frameworks
+2025-10-28 03:31:55.170 | INFO     | app.main:log_requests:111 - Response: 200 GET http://localhost:8000/api/projects/frameworks
+2025-10-28 03:33:04.672 | INFO     | app.main:log_requests:105 - Request: POST http://localhost:8000/api/projects/preview
+2025-10-28 03:33:04.674 | INFO     | app.main:log_requests:105 - Request: POST http://localhost:8000/api/projects/preview
+2025-10-28 03:33:04.727 | INFO     | app.main:log_requests:111 - Response: 200 POST http://localhost:8000/api/projects/preview
+2025-10-28 03:33:04.733 | INFO     | app.main:log_requests:111 - Response: 200 POST http://localhost:8000/api/projects/preview
+2025-10-28 03:33:08.312 | INFO     | app.main:log_requests:105 - Request: POST http://localhost:8000/api/projects/build
+2025-10-28 03:33:08.335 | INFO     | app.main:log_requests:111 - Response: 200 POST http://localhost:8000/api/projects/build
+2025-10-28 03:33:43.761 | INFO     | app.main:log_requests:105 - Request: POST http://localhost:8000/api/projects/generate-pdf
+2025-10-28 03:33:43.771 | WARNING  | app.main:http_exception_handler:137 - HTTPException 500 at http://localhost:8000/api/projects/generate-pdf: Not enough horizontal space to render a single character
+2025-10-28 03:33:43.773 | INFO     | app.main:log_requests:111 - Response: 500 POST http://localhost:8000/api/projects/generate-pdf
+2025-10-28 03:33:53.199 | INFO     | app.main:log_requests:105 - Request: POST http://localhost:8000/api/projects/generate-pdf
+2025-10-28 03:33:53.208 | WARNING  | app.main:http_exception_handler:137 - HTTPException 500 at http://localhost:8000/api/projects/generate-pdf: Not enough horizontal space to render a single character
+2025-10-28 03:33:53.208 | INFO     | app.main:log_requests:111 - Response: 500 POST http://localhost:8000/api/projects/generate-pdf
